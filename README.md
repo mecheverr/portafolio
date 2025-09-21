@@ -13,6 +13,8 @@ Soy Melany, desarrolladora Front-end especializada en React, HTML y CSS. Este es
 - [Ver en vivo](https://mecheverr.github.io/portafolio/) 
 - [GitHub](https://github.com/mecheverr)
 
----
+## 📄 Licencia
 
-_Hecho con pasión — Melany Echeverría_
+Este proyecto está bajo la [Licencia MIT](LICENSE).
+
+---
