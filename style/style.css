@@ -135,10 +135,10 @@ body {
 
 .footer {
     text-align: center;
-    padding: 1.5rem;
+    padding: 0.75rem;
     background-color: var(--color-terciario);
     font-family: var(--fuente-montserrat);
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: var(--color-primario);
     font-weight: 400;
     bottom: 0;
